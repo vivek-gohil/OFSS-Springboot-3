@@ -1,0 +1,1 @@
+Write a spring boot controller using Records, Store 10 records object into List and print.
